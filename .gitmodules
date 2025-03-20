@@ -1,0 +1,15 @@
+[submodule "vision_msgs"]
+	path = vision_msgs
+	url = git@github.com:snwu1996/vision_msgs.git
+[submodule "rosidl_generator_mypy"]
+	path = rosidl_generator_mypy
+	url = git@github.com:rospypi/rosidl_generator_mypy.git
+[submodule "marti_messages"]
+	path = marti_messages
+	url = git@github.com:snwu1996/marti_messages.git
+[submodule "common_interfaces"]
+	path = common_interfaces
+	url = git@github.com:snwu1996/common_interfaces.git
+[submodule "geographic_info"]
+	path = geographic_info
+	url = git@github.com:ros-geographic-info/geographic_info.git
